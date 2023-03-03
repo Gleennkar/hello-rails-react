@@ -126,6 +126,10 @@ Clone this repository to your desired folder:
 
   cd hello-rails-react
 
+  ### Install
+
+  bundle install
+
 
 ### Usage
 
