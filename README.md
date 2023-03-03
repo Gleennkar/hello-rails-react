@@ -124,7 +124,7 @@ Clone this repository to your desired folder:
 
   git clone https://github.com/Gleennkar/hello-rails-react
 
-  cd Hello-World-RoR-WebPack
+  cd hello-rails-react
 
 
 ### Usage
